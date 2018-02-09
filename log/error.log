@@ -1,0 +1,230 @@
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5047 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5030 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5035 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5017 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5050 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5009 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5040 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5017 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5050 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
+fuck it
+[31mUnhandled rejection fn
+evaluate
+
+global code
+evaluateJavaScript@[native code]
+evaluate@phantomjs://platform/webpage.js:390:39
+phantomjs://code/bridge.js:121:61    at Horseman.<anonymous> (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:839:38)
+    at Horseman.tryCatcher (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromiseCtx (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/promise.js:606:10)
+    at Async._drainQueue (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:138:12)
+    at Async._drainQueues (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/simscomputing/OddsStory/node_modules/bluebird/js/release/async.js:17:14)
+    at processImmediate [as _immediateCallback] (timers.js:383:17)[0m
+
+[31mUnhandled rejection TimeoutError: timeout during .waitFor() after 5046 ms
+    at waitForCheck (/home/simscomputing/OddsStory/node_modules/node-horseman/lib/actions.js:1688:13)
+    at wrapper (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)[0m
+
+twice
